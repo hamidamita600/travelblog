@@ -1,0 +1,76 @@
+.blog{
+    background-color: blue;
+    font-size: 20px;
+    color: cornsilk;
+}
+.author{
+    font-size: 25px;
+    color: firebrick;
+}
+
+.meher{
+    background-color: green;
+    font-size: 20px;
+}
+
+.Nisa{
+    background-color: darkgoldenrod;
+    font-size: 20px;
+}
+.a{
+    background-color: deepskyblue;
+    font-size: 25px;
+}
+.b{
+    background-color: greenyellow;
+    font-size: 25px;
+}
+
+.blog{
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+    padding: 50px 40px 60px 80px;
+}
+.meher{
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+    padding: 50px 40px 60px 80px;
+}
+
+.Nisa{
+    border: 10px solid red;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+    padding: 50px 40px 60px 80px;
+}
+.blog-p{
+    color: fuchsia;
+    text-align: justify;
+}
+.title{
+    text-align: center;
+    color: gold;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 100;
+}
+
+
+.meher{
+
+    border: 10px dotted blue;
+    border-radius: 15px;
+    margin-left: 20px;
+    padding: 30px 40px 60px 80px;
+    
+}
+
+
+.Nisa{
+    border: 10px dashed red;
+    border-radius: 15px;
+    margin: 10px 10px 10px 10px;
+    padding: 40px 50px 30px 80px;
+}
